@@ -1,0 +1,23 @@
+Name	Capital	Population	Flag
+Republic of Poland	Warsaw	38500
+Chech Republic	Prague	10500
+Kingdom of Spain	Madrid	46599
+China	Beijing	1400050
+India	New Delhi	1352642
+Japan	Tokyo	125960
+Russia	Moscow	146748
+Indonesia	Jakarta	267670
+South Korea	Seoul	51709
+Egypt	Cairo	100075
+Mexico	Mexico City	128649
+United Kingdom	London	67886
+Bangladesh	Dhaka	161376
+Peru	Lima	32824
+Iran	Tehran	83183
+Thailand	Bangkok	66558
+Vietnam	Hanoi	96208
+Saudi Arabia	Riyadh	34218
+Hong Kong	Hong Kong	7500
+Colombia	Bogotá	50372
+Iraq	Baghdad	38433
+Chile	Santiago	17574

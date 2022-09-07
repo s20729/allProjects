@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Fri Jan 22 17:38:15 CET 2021:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0177-2af5-e8df-00000ee00000 
+on database directory C:\Users\molni\Desktop\IdeaProjects\UTP11_SO_S20729\TravelDataBase with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@4b1210ee 
+Loaded from file:/D:/Derby/db-derby-10.14.2.0-bin/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=15+36-1562
+user.dir=C:\Users\molni\Desktop\IdeaProjects\UTP11_SO_S20729
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
